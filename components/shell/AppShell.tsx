@@ -84,7 +84,7 @@ function Sidebar() {
         <p>Narzędzie wskazuje sygnały i ich źródła. Nie ocenia zgodności z prawem i nie wydaje decyzji administracyjnych.</p>
       </div>
       <div className="gov">
-        <Image src="/img/mfipr.png" alt="Ministerstwo Funduszy i Polityki Regionalnej" width={190} height={58} className="h-auto" />
+        <Image src="/img/mfipr-jasne.png" alt="Ministerstwo Funduszy i Polityki Regionalnej" width={1373} height={432} />
       </div>
     </aside>
   );
